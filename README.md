@@ -11,7 +11,7 @@ This repository serves as a guide to changing your IP address using a VPN. A Vir
 1. [What You Need](#what-you-need)
 2. [Step-by-Step Guide](#step-by-step-guide)
 3. [Examples](#examples)
-4. [Resources](#resources)
+4. 
 
 ## What You Need
 - A VPN service (e.g., NordVPN, ExpressVPN, or a free one like ProtonVPN).
@@ -26,6 +26,4 @@ Follow these steps to change your IP address using a VPN:
 4. Select a server location to change your IP address.
 5. Connect to the server and verify your new IP address.
 
-## Resources
-- [How VPNs Work - Overview](https://www.example.com)
-- [VPN Providers List](https://www.examplevpn.com)
+
